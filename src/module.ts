@@ -24,9 +24,10 @@ export default defineNuxtModule<ModuleOptions>({
       nuxt.options.build.transpile.push(runtimeDir)
       addComponent({
         name: 'Animate',
-        filePath: resolve(runtimeDir, 'components/animate.css', 'animate.vue')
+        filePath: resolve(runtimeDir, 'components', 'animate.vue')
       })
       addPlugin(resolve(runtimeDir, 'plugin'))
+      nuxt.options.css.push(resolve(runtimeDir, 'css/animate.min.css'))
     }
   }
 })
