@@ -96,6 +96,8 @@ or
 
 ### animations
 
+<br>
+
 | **attention seekers**  |
 | :------------- |
 | animate__bounce  |
@@ -111,12 +113,16 @@ or
 | animate__jello |
 | animate__heartBeat |
 
+<br>
+
 | **back entrances**  | **back exits** |
 | :------------- | :------------- |
 | animate__backInDown  | animate__backOutDown |
 | animate__backInLeft  | animate__backOutLeft |
 | animate__backInRight  | animate__backOutRight |
 | animate__backInUp  | animate__backOutUp |
+
+<br>
 
 | **bouncing entrances**  | **bouncing exits** |
 | :------------- | :------------- |
@@ -125,6 +131,8 @@ or
 | animate__bounceInLeft  | animate__bounceOutLeft |
 | animate__bounceInRight  | animate__bounceOutRight |
 | animate__bounceInUp  | animate__bounceOutUp |
+
+<br>
 
 | **fading entrances**  | **fading exits** |
 | :------------- | :------------- |
@@ -142,6 +150,8 @@ or
 | animate__fadeInBottomLeft  | animate__fadeOutBottomRight |
 | animate__fadeInBottomRight  | animate__fadeOutBottomLeft |
 
+<br>
+
 | **flippers**  |
 | :------------- |
 | animate__flip  | 
@@ -150,12 +160,16 @@ or
 | animate__flipOutX |
 | animate__flipOutY |
 
+<br>
+
 | **lightspeed**  |
 | :------------- |
 | animate__lightSpeedInRight  | 
 | animate__lightSpeedInLeft  |
 | animate__lightSpeedOutRight  |
 | animate__lightSpeedOutLeft |
+
+<br>
 
 | **rotating entrances**  | **rotating exits** |
 | :------------- | :------------- |
@@ -165,12 +179,16 @@ or
 | animate__rotateInRight  | animate__rotateOutRight |
 | animate__rotateInUp  | animate__rotateOutUp |
 
+<br>
+
 | **specials**  |
 | :------------- |
 | animate__hinge  | 
 | animate__jackInTheBox  |
 | animate__rollIn  |
 | animate__rollOut |
+
+<br>
 
 | **zooming entrances**  | **zooming exits** |
 | :------------- | :------------- |
@@ -180,6 +198,8 @@ or
 | animate__zoomInRight  | animate__zoomOutRight |
 | animate__zoomInUp  | animate__zoomOutUp |
 
+<br>
+
 | **sliding entrances**  | **sliding exits** |
 | :------------- | :------------- |
 | animate__slideInDown  | animate__slideOutDown |
@@ -187,7 +207,11 @@ or
 | animate__slideInRight  | animate__slideOutRight |
 | animate__slideInUp  | animate__slideOutUp |
 
+<br>
+
 ---
+
+<br>
 
 ### utility classes
 
@@ -225,8 +249,6 @@ you can control the iteration count of the animation with these **repeat** prop 
 | animate__repeat-2  | 2  |
 | animate__repeat-3  | 3  |
 | animate__infinite  | infinite  |
-
----
 
 ## examples
 
