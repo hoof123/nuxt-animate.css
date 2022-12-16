@@ -296,7 +296,7 @@ for further development, clone this repository and:
 - run `npm run dev:prepare` to generate type stubs.
 - use `npm run dev` to start [playground](./playground) in development mode.
 
-the nuxt module development guide can be found here: [nuxt Module Author Guide](https://nuxt.com/docs/guide/going-further/modules)
+the nuxt module development guide can be found here: [Nuxt Module Author Guide](https://nuxt.com/docs/guide/going-further/modules)
 
 ## license
 
