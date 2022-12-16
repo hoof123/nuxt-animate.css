@@ -1,6 +1,6 @@
 {
   "name": "@jpcreativemedia/nuxt-animate.css",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -33,7 +33,7 @@
     "eslint": "^8.29.0",
     "nuxt": "^3.0.0"
   },
-  "description": "## development",
+  "description": "nuxt module to integrate animate.css library with intersection observer api to optionally trigger animations on scroll.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hoof123/nuxt-animate.css.git"
