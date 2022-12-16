@@ -42,7 +42,9 @@
     "animation",
     "animate",
     "animate.css",
+    "nuxt",
     "nuxt3",
+    "nuxt-module",
     "vue3",
     "vue",
     "nuxt"
