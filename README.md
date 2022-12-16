@@ -211,8 +211,6 @@ or
 
 ---
 
-<br>
-
 ### utility classes
 
 animate.css has a few utility classes to simplify its use.
@@ -249,6 +247,8 @@ you can control the iteration count of the animation with these **repeat** prop 
 | animate__repeat-2  | 2  |
 | animate__repeat-3  | 3  |
 | animate__infinite  | infinite  |
+
+<br>
 
 ## examples
 
