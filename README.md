@@ -281,7 +281,7 @@ for some advice on animation best practices, you should read the following:
 [animate.css best practices](https://animate.style/#best-practices)
 
 ### accessibility
-Animate.css supports the prefers-reduced-motion media query so that users with motion sensitivity can opt out of animations. On supported platforms (currently all the major browsers and OS, including mobile), users can select "reduce motion" on their operating system preferences, and it will turn off CSS transitions for them without any further work required.
+animate.css supports the prefers-reduced-motion media query so that users with motion sensitivity can opt out of animations. on supported platforms (currently all the major browsers and OS, including mobile), users can select "reduce motion" on their operating system preferences, and it will turn off CSS transitions for them without any further work required.
 
 ## roadmap
 
