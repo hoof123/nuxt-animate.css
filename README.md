@@ -70,7 +70,7 @@ the component requires **5** props: **animation**, **delay**, **duration**, **re
 
 **:scroll** is a boolean that enables the intersection observer api so you can choose to trigger the animation as the child element is scrolled into view.
 <br>
-note: **:scroll** must be assigned dynamically with the vue directive **v-bind:** or it's **:** shortcut.
+note: **:scroll** must be assigned dynamically with the vue directive **v-bind:** or its **:** shortcut.
 <br>
 example:
 
